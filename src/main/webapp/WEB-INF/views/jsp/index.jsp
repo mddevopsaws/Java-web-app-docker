@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Welcome To MicroDegree DevOps Training</h2>
+			
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; MicroDegree 2021</p>
 	</footer>
 </div>
 
@@ -57,7 +57,7 @@
 
 <script src="${coreJs}"></script>
 <script src="${bootstrapJs}"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
 
 </body>
 </html>
